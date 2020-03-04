@@ -1,4 +1,4 @@
-## Georgios Rafail Troulakis (rtroulak)
+## Georgios Rafail Troulakis / rtroulak
 
 You can use the [editor on GitHub](https://github.com/rtroulak/about/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
